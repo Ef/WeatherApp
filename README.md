@@ -18,7 +18,7 @@
 3. 5 day weekly forecast shows up on bottom of screen
 
 ## Future work 
-A) Use size classes to take full advantage of screen dimentions
-B) Allow user to choose location(s)
-C) Show forecast in more detail
-D) Increase unit test coverage
++ Use size classes to take full advantage of screen dimentions
++ Allow user to choose location(s)
++ Show forecast in more detail
++ Increase unit test coverage
